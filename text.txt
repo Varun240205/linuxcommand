@@ -1,0 +1,18 @@
+sudo apt install
+sudo apt update
+clear
+mkdir
+ls
+rm -rf
+cd
+cd ..
+pwd
+touch
+nano
+cat
+mv
+history
+whoami
+echo
+ls -a
+
